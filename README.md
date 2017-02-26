@@ -15,6 +15,8 @@ cd build
 cmake -G "Visual Studio 14 Win 64" ..
 msbuild lg27uob.sln /property:Configuration=Release
 ```
+## Citation
+Use the Zenodo-enabled service to generate a citation using your favourite style [![DOI](https://zenodo.org/badge/80522752.svg)](https://zenodo.org/badge/latestdoi/80522752)
 
 ## License
 
