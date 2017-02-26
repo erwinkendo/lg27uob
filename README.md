@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/83224073.svg)](https://zenodo.org/badge/latestdoi/83224073)
 # Logitech G27 and other steering wheels data-logger 
 Data-logger for Logitech G27 and other compatible steering wheels or joystick, part of a driver logging system.
 
